@@ -1,0 +1,97 @@
+#ubuntu=21.4
+ffmpeg=4.3.2
+python==3.6
+tensorflow==1.8
+librosa==0.8.1
+SoundFile= 0.10.3
+pyworld=0.3.0
+tensorboard=1.8
+scikit-learn=0.24.2
+numpy==1.16.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# packages in environment at /home/bhaskar/anaconda3/envs/checkenv:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             4.5                       1_gnu  
+absl-py                   0.14.1                   pypi_0    pypi
+appdirs                   1.4.4                    pypi_0    pypi
+astor                     0.8.1                    pypi_0    pypi
+audioread                 2.1.9                    pypi_0    pypi
+bleach                    1.5.0                    pypi_0    pypi
+ca-certificates           2021.7.5             h06a4308_1  
+certifi                   2021.5.30        py36h06a4308_0  
+cffi                      1.14.6                   pypi_0    pypi
+charset-normalizer        2.0.6                    pypi_0    pypi
+cython                    0.29.24                  pypi_0    pypi
+dataclasses               0.8                      pypi_0    pypi
+decorator                 5.1.0                    pypi_0    pypi
+gast                      0.5.2                    pypi_0    pypi
+grpcio                    1.41.0                   pypi_0    pypi
+html5lib                  0.9999999                pypi_0    pypi
+idna                      3.2                      pypi_0    pypi
+importlib-metadata        4.8.1                    pypi_0    pypi
+joblib                    1.0.1                    pypi_0    pypi
+ld_impl_linux-64          2.35.1               h7274673_9  
+libffi                    3.3                  he6710b0_2  
+libgcc-ng                 9.3.0               h5101ec6_17  
+libgomp                   9.3.0               h5101ec6_17  
+librosa                   0.8.1                    pypi_0    pypi
+libstdcxx-ng              9.3.0               hd4cf53a_17  
+llvmlite                  0.36.0                   pypi_0    pypi
+markdown                  3.3.4                    pypi_0    pypi
+ncurses                   6.2                  he6710b0_1  
+numba                     0.53.1                   pypi_0    pypi
+numpy                     1.16.2                   pypi_0    pypi
+openssl                   1.1.1l               h7f8727e_0  
+packaging                 21.0                     pypi_0    pypi
+pip                       21.0.1           py36h06a4308_0  
+pooch                     1.5.1                    pypi_0    pypi
+protobuf                  3.18.0                   pypi_0    pypi
+pycparser                 2.20                     pypi_0    pypi
+pyparsing                 2.4.7                    pypi_0    pypi
+python                    3.6.13               h12debd9_1  
+pyworld                   0.3.0                    pypi_0    pypi
+readline                  8.1                  h27cfd23_0  
+requests                  2.26.0                   pypi_0    pypi
+resampy                   0.2.2                    pypi_0    pypi
+scikit-learn              0.24.2                   pypi_0    pypi
+scipy                     1.5.4                    pypi_0    pypi
+setuptools                58.0.4           py36h06a4308_0  
+six                       1.16.0                   pypi_0    pypi
+soundfile                 0.10.3.post1             pypi_0    pypi
+sqlite                    3.36.0               hc218d9a_0  
+tensorboard               1.8.0                    pypi_0    pypi
+tensorflow                1.8.0                    pypi_0    pypi
+termcolor                 1.1.0                    pypi_0    pypi
+threadpoolctl             3.0.0                    pypi_0    pypi
+tk                        8.6.11               h1ccaba5_0  
+typing-extensions         3.10.0.2                 pypi_0    pypi
+urllib3                   1.26.7                   pypi_0    pypi
+werkzeug                  2.0.1                    pypi_0    pypi
+wheel                     0.37.0             pyhd3eb1b0_1  
+xz                        5.2.5                h7b6447c_0  
+zipp                      3.6.0                    pypi_0    pypi
+zlib                      1.2.11               h7b6447c_3  
+
